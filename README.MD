@@ -87,7 +87,7 @@ No bloco {CURIOSIDADE 1} uso da IA na auditoria interna das empresas publicas
 </p>
 No bloco {CURIOSIDADE 2} dicas e novidades sobre ferramentas de IA utilizadas pelos auditores internos de uma empresa pública
 </p>
-No bloco {FINALIZAÇÃO} substitua por uma despedida cool com o final ‘ Eu sou Edilma e esse foi o Guardiões da Governança: IA e a Auditoria nas empresas públicas dessa semana’
+No bloco {FINALIZAÇÃO} substitua por uma despedida cool com o final ‘ Eu sou Júlia e esse foi o Guardiões da Governança: IA e a Auditoria nas empresas públicas dessa semana’
 </p>
 Use termos de fácil explicação
 </p>
