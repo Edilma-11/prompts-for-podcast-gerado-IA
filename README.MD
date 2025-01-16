@@ -67,6 +67,7 @@ Não quero que o título contenha palavras em inglês
 Não ultrapasse 5 minutos de duração
 
 - 🤖 2. Prompts de roteiro no `copilo.microsoft`
+</p>
 Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em auditoria cujo o nome é “Guardiões da Governança: IA e a Auditoria nas empresas públicas” e tem foco em Auditoria, com o público alvo de auditores Juniores.
 </p>
 O formato de roteiro deve ser:
@@ -98,7 +99,7 @@ O podcast deve ser curto
 - 🤖 3. Prompts de artes no `copilot.microsoft`
 
 ## 🔈 Resultado
-Podcast gerado por IA finalizado.
+Podcast gerado por IA.
 
 ## 👨‍💻 Expert
 
