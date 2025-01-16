@@ -97,8 +97,9 @@ O podcast deve ser curto
 </p>
 - 🤖 3. Prompts de artes no `copilot.microsoft`
 
-##  Resultado
-202501161827 (2).mp4
+## 🔈 Resultado
+Podcast gerado por IA finalizado.
+
 ## 👨‍💻 Expert
 
 <p>
