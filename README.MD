@@ -61,7 +61,9 @@ Não quero que o título contenha palavras em inglês
 
 - 🤖 2. Prompts de roteiro no `copilo.microsoft`
 Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em auditoria cujo o nome é “Guardiões da Governança: IA e a Auditoria nas empresas públicas” e tem foco em Auditoria, com o público alvo de auditores Juniores.
-O formato de roteiro deve ser
+</p>
+O formato de roteiro deve ser:
+</p>
 {INTRODUÇÃO}
 {CURIOSIDADE 1}
 {CURIOSIDADE 2}
