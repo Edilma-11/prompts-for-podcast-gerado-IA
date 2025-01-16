@@ -50,13 +50,18 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 - 🤖 1. Prompts para criar o nome do Podcast no 'copilot.microsoft`
 Nome do podcast
+</p>
   Você é um roteirista de podcast, e vamos criar um podcast de tecnologia focado em "Auditoria" e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast sobre o uso da IA na auditoria interna de uma empresa pública, feito por auditores, e que faça referência com "Game of Thrones" no nome.
+</p>
 O podcast vai falar sobre dicas e novidades sobre o uso da IA na auditoria interna de uma empresa pública e o que está acontecendo no mercado.
 REGRAS
+</p>
 O nome deve ser enxuto, um nome e um subtíulo
+</p>
 O nome deve ter algun trocadilho nerd com nomes da franquia conhecida como Harry Poter.
-
+</p>
 REGRAS NEGATIVAS
+</p>
 Não quero que o título contenha palavras em inglês
 
 - 🤖 2. Prompts de roteiro no `copilo.microsoft`
@@ -65,18 +70,29 @@ Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tec
 O formato de roteiro deve ser:
 </p>
 {INTRODUÇÃO}
+</p>
 {CURIOSIDADE 1}
+</p>
 {CURIOSIDADE 2}
+</p>
 {FINALIZAÇÃO}
+</p>
 {REGRAS}
+</p>
 No bloco {INTRODUÇÃO} substitua por uma introdução iguais as introduções dos vídeos do canal ‘ei nerd’, como se fossem escritos pelo Peter Jordan
+</p>
 No bloco {CURIOSIDADE 1} uso da IA na auditoria interna das empresas publicas 
+</p>
 No bloco {CURIOSIDADE 2} dicas e novidades sobre ferramentas de IA utilizadas pelos auditores internos de uma empresa pública
+</p>
 No bloco {FINALIZAÇÃO} substitua por uma despedida cool com o final ‘ Eu sou Edilma e esse foi o Guardiões da Governança: IA e a Auditoria nas empresas públicas dessa semana’
+</p>
 Use termos de fácil explicação
+</p>
 O podcast vai ser apresentado somente por uma pessoa, chamada Júlia
+</p>
 O podcast deve ser curto
-
+</p>
 - 🤖 3. Prompts de artes no `copilot.microsoft`
 
 ## 👨‍💻 Expert
