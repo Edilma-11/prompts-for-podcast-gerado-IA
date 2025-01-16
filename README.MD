@@ -27,14 +27,13 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
 - [copilot.microsoft](https://copilot.microsoft.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Roteiro gerado via copilot.microsoft
 - Audio gerado pela elevenLabs
 - copilot.microsoft Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
@@ -42,15 +41,40 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 📚 Materiais
 
 - [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo 
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
+- 🤖 1. Prompts para criar o nome do Podcast no 'copilot.microsoft`
+Nome do podcast
+  Você é um roteirista de podcast, e vamos criar um podcast de tecnologia focado em "Auditoria" e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast sobre o uso da IA na auditoria interna de uma empresa pública, feito por auditores, e que faça referência com "Game of Thrones" no nome.
+O podcast vai falar sobre dicas e novidades sobre o uso da IA na auditoria interna de uma empresa pública e o que está acontecendo no mercado.
+REGRAS
+O nome deve ser enxuto, um nome e um subtíulo
+O nome deve ter algun trocadilho nerd com nomes da franquia conhecida como Harry Poter.
+
+REGRAS NEGATIVAS
+Não quero que o título contenha palavras em inglês
+
+- 🤖 2. Prompts de roteiro no `copilo.microsoft`
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em auditoria cujo o nome é “Guardiões da Governança: IA e a Auditoria nas empresas públicas” e tem foco em Auditoria, com o público alvo de auditores Juniores.
+O formato de roteiro deve ser
+{INTRODUÇÃO}
+{CURIOSIDADE 1}
+{CURIOSIDADE 2}
+{FINALIZAÇÃO}
+{REGRAS}
+No bloco {INTRODUÇÃO} substitua por uma introdução iguais as introduções dos vídeos do canal ‘ei nerd’, como se fossem escritos pelo Peter Jordan
+No bloco {CURIOSIDADE 1} uso da IA na auditoria interna das empresas publicas 
+No bloco {CURIOSIDADE 2} dicas e novidades sobre ferramentas de IA utilizadas pelos auditores internos de uma empresa pública
+No bloco {FINALIZAÇÃO} substitua por uma despedida cool com o final ‘ Eu sou Edilma e esse foi o Guardiões da Governança: IA e a Auditoria nas empresas públicas dessa semana’
+Use termos de fácil explicação
+O podcast vai ser apresentado somente por uma pessoa, chamada Júlia
+O podcast deve ser curto
+
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
