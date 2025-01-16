@@ -63,6 +63,8 @@ O nome deve ter algun trocadilho nerd com nomes da franquia conhecida como Harry
 REGRAS NEGATIVAS
 </p>
 Não quero que o título contenha palavras em inglês
+</p>
+Não ultrapasse 5 minutos de duração
 
 - 🤖 2. Prompts de roteiro no `copilo.microsoft`
 Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em auditoria cujo o nome é “Guardiões da Governança: IA e a Auditoria nas empresas públicas” e tem foco em Auditoria, com o público alvo de auditores Juniores.
@@ -100,5 +102,4 @@ O podcast deve ser curto
 <p>
     
 ---
-
-⌨️ com 💜 por [Edilma Lima]
+💜 por [Edilma Lima]
