@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+   
 </p>
 
 <div align="center">
@@ -48,6 +48,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 
 - 🤖 1. Prompts para criar o nome do Podcast no 'copilot.microsoft`
+</p>
 Nome do podcast
 </p>
   Você é um roteirista de podcast, e vamos criar um podcast de tecnologia focado em "Auditoria" e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast sobre o uso da IA na auditoria interna de uma empresa pública, feito por auditores, e que faça referência com "Game of Thrones" no nome.
