@@ -75,8 +75,7 @@ Use termos de fácil explicação
 O podcast vai ser apresentado somente por uma pessoa, chamada Júlia
 O podcast deve ser curto
 
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 3. Prompts de artes no `copilot.microsoft`
 
 ## 👨‍💻 Expert
 
