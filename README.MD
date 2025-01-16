@@ -97,6 +97,8 @@ O podcast deve ser curto
 </p>
 - 🤖 3. Prompts de artes no `copilot.microsoft`
 
+##  Resultado
+
 ## 👨‍💻 Expert
 
 <p>
