@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/capa de podcast relacionado a IA como uma ferramenta da auditoria interna de uma empresa pública, fundo na cor azul e cor laranja com referência a Jordan Peterson e Harry Potter com foco na auditoria (1).png"
     width="300"
 />
 </p>
